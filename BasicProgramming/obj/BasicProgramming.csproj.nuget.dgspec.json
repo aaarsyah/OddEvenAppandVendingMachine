@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\BasicProgramming\\BasicProgramming.csproj": {}
+    "E:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\BasicProgramming\\BasicProgramming.csproj": {}
   },
   "projects": {
-    "e:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\BasicProgramming\\BasicProgramming.csproj": {
+    "E:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\BasicProgramming\\BasicProgramming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\BasicProgramming\\BasicProgramming.csproj",
+        "projectUniqueName": "E:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\BasicProgramming\\BasicProgramming.csproj",
         "projectName": "BasicProgramming",
-        "projectPath": "e:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\BasicProgramming\\BasicProgramming.csproj",
+        "projectPath": "E:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\BasicProgramming\\BasicProgramming.csproj",
         "packagesPath": "C:\\Users\\arry_\\.nuget\\packages\\",
-        "outputPath": "e:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\BasicProgramming\\obj\\",
+        "outputPath": "E:\\Documents\\KULIAH S1 TEKNIK INFORMATIKA\\Magang MII (MetroData)\\Fundamental\\BasicProgramming\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arry_\\AppData\\Roaming\\NuGet\\NuGet.Config"
